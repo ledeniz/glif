@@ -7,6 +7,8 @@ I wrote the code for creating an animated glitch GIF of the cover art for the la
     <img src="https://raw.githubusercontent.com/ledeniz/glif/master/example.gif" alt="Example of a glitched GIF" />
 </a>
 
+Artwork by [Karolin Semmler](https://instagram.com/cola_chopin)
+
 ## Overview
 - ```glif.php```
   - static usable class for (iterative) data corruption
@@ -14,9 +16,11 @@ I wrote the code for creating an animated glitch GIF of the cover art for the la
   - generates a variety of glitched JPEGs
 - ```index.php```
   - produces a gif with a random selection from ```frames/``` and ```input.jpg```
+    - [live demo](https://strdl.de/listen/the-sea)
 
 - ```frames/index.php```
   - displays a gallery of the images in ```frames/```
+    - [live demo](https://media.strdl.de/glif-the-sea/frames/)
  
 ## Problems
 Since the corruption process is literally random, some of the resulting JPEGs may not be valid pictures at all.
