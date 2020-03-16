@@ -3,7 +3,11 @@ Quick n dirty scripts for glitching JPEGs and creating animated GIFs out of them
 
 I wrote the code for creating an animated glitch GIF of the cover art for the landing page of my song [The Sea](https://strdl.de/listen/the-sea).
 
-![Example of a glitched GIF](https://raw.githubusercontent.com/ledeniz/glif/master/example.gif)
+<div style="text-align: center">
+    <a href="https://strdl.de/listen/the-sea">
+        <img src="https://raw.githubusercontent.com/ledeniz/glif/master/example.gif" alt="Example of a glitched GIF" />
+    </a>
+</div>
 
 ## Overview
 - ```glif.php```
